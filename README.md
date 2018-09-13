@@ -1,2 +1,2 @@
-# Elements
-Elements flatsome
+# Hi Seb!
+Elements for flatsome
