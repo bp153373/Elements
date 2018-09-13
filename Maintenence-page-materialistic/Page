@@ -1,0 +1,35 @@
+[section bg_color="#d26e4b" bg_overlay="rgb(246, 146, 30)"]
+
+[row col_bg="rgb(255,255,255)"]
+
+[col span__sm="12" class="maintenence-box"]
+
+<div class="animation">
+<div class="one spin-one"></div>
+<div class="two spin-two"></div>
+<div class="three spin-one"></div>
+</div>
+<h2 class="uppercase">This page is still under construction</h2>
+<h3>Come back later or contact us.</h3>
+[row_inner style="small" h_align="center"]
+
+[col_inner span="6" span__sm="12" align="right"]
+
+[button text="Back Home" style="outline" radius="99"]
+
+
+[/col_inner]
+[col_inner span="6" span__sm="12" align="left"]
+
+[button text="Contact us" style="outline" radius="99"]
+
+
+[/col_inner]
+
+[/row_inner]
+
+[/col]
+
+[/row]
+
+[/section]
